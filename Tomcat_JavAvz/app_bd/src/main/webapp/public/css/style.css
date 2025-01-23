@@ -1,0 +1,10 @@
+header{
+    height: 20vh;
+    background-color: rgb(175, 175, 226);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img{
+    width: 10%;
+}

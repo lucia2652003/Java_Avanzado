@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+
+img{
+    width: 200px;
+}
+
+header{
+    height: 20vh;
+    background-color: rgb(114, 114, 233);
+    display: flex;
+    justify-content: space-evenly;
+}

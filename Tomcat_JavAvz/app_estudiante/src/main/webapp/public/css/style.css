@@ -1,0 +1,19 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.votar{
+    background-color: rgb(24, 126, 243);
+    color: white;
+    padding: 15px;
+    font-size: 1pc;
+    border-radius: 12px;
+}
+
+.mostrar{
+    background-color: rgb(51, 165, 6);
+    color: white;
+    padding: 15px;
+    font-size: 1pc;
+    border-radius: 12px;
+}

@@ -1,0 +1,24 @@
+/*Para dar estilo a la página*/
+body{
+    background-color: beige;
+}
+
+img{
+    height: 45%;
+    width: 50%;
+    border-color: black;
+    border-radius: 12cap;
+}
+
+button{
+    color: black;
+    font-weight: bold;
+}
+
+button, input{
+    font-size: 2pc;
+}
+
+input{
+    color: red;
+}

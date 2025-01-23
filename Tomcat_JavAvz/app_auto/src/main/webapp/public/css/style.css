@@ -1,0 +1,17 @@
+table{
+    margin-left: 150px;
+    font-size: 25px;
+    text-align: center;
+    border: #b2b2b2 1px solid;
+}
+
+th, td{
+    border: #b2b2b2 1px solid;
+    padding: 15px; /*Dejar espacio en las celdas*/
+}
+
+img{
+    width: 100px;
+    height: 110px;
+    border: 1px solid black;
+}
